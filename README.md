@@ -1,4 +1,4 @@
-# ** cloudbankin.com Python Selenium Automation Project**
+# cloudbankin.com Python Selenium Automation Project
 #### Login : https://qatest.uat.cloudbankin.com/  
 ##### Username: qatest@habile.in
 #### Password: Qatest123$
